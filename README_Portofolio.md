@@ -22,12 +22,6 @@ Project ini dibuat dengan memanfaatkan beberapa teknologi:
 
 ---
 
-## 🎨 Preview
-Preview desain dapat dilihat di sini:  
-👉 *Tambahkan link Figma atau demo website kamu di sini nanti.*
-
----
-
 ## 📊 Progress
 - [x] Menyusun konsep & referensi  
 - [x] Mendesain layout di Figma  
